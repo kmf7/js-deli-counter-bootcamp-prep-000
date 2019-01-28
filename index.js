@@ -15,7 +15,7 @@ function currentLine(line){
   let names= [];
   if (line.length>0){
     for(let i=0; i<line.length;i++){
-      names.push(`${i+1}. ${line[i]}`);
+      names.push(`${i + 1 }. ${line[i]}`);
     }
     return `The line is currently: ${names}`;}
   else{
