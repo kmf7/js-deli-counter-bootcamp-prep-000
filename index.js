@@ -14,7 +14,9 @@ function nowServing(line){
 function currentLine(line){
   let names= [];
   if (line>0){
-    for(let i=0; i<)
+    for(let i=0; i<line.length;i++){
+      
+    }
   }
 }
   
