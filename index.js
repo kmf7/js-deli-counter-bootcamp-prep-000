@@ -15,7 +15,7 @@ function currentLine(line){
   let names= [];
   if (line>0){
     for(let i=0; i<line.length;i++){
-      
+      names.push(`)
     }
   }
 }
