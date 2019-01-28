@@ -19,6 +19,6 @@ function currentLine(line){
     }
     return `The line is currently: ${names}`;}
   else{
-      return
+      return "The line is currently empty.";
     }
   }
