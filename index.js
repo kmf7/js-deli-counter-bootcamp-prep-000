@@ -13,7 +13,7 @@ function nowServing(line){
 }
 function currentLine(line){
   let names= [];
-  if (line>0){
+  if (line.length>0){
     for(let i=0; i<line.length;i++){
       names.push(`${i+1}.line[i]`);
     }
