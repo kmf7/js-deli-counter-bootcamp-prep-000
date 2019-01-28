@@ -12,6 +12,9 @@ function nowServing(line){
   }
 }
 function currentLine(line){
-  let names= []
+  let names= [];
+  if (line>0){
+    
+  }
 }
   
